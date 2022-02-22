@@ -1,0 +1,27 @@
+body{
+    /* The image used */
+  background-image: url(/img/aksam\ yemegi.jpg);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+h1{
+    color:black;
+    font-size: xx-large;
+}
+
+.altbaslik{
+    font-size: x-large;
+}
+
+ul{
+    font-size: larger;
+}
+

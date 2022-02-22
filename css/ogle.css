@@ -1,0 +1,23 @@
+body{
+    /* The image used */
+  background-image: url(/img/ogle\ arka\ plan.jpg);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1{
+    color:aquamarine;
+    font-size: x-large;
+    text-align: center;
+}
+
+p{
+    color:aqua;
+    font-size: 20px;;
+}
